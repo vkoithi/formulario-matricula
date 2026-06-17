@@ -41,3 +41,4 @@ Formulário de matrícula estático desenvolvido em HTML e CSS para a escola de 
 - Estilos visuais consistentes e agradáveis
 
 ## 💻 Projeto
+- [Acesse o projeto finalizado, online.](https://vkoithi.github.io/formulario-matricula/)
